@@ -1,0 +1,22 @@
+{
+  "name": "branches",
+  "version": "1.0.0",
+  "description": "testing branches",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juantubello/testing-branches.git"
+  },
+  "keywords": [
+    "branches"
+  ],
+  "author": "Juan Pablo Fernandez Tubello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juantubello/testing-branches/issues"
+  },
+  "homepage": "https://github.com/juantubello/testing-branches#readme"
+}
